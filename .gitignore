@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Serverless
+*/.serverless
+*/node_modules
+
 # Distribution / packaging
 .Python
 build/
